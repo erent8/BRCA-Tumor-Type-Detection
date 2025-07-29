@@ -431,23 +431,23 @@ Bu proje açık kaynak kodludur ve katkılara açıktır. Katkıda bulunmak içi
 5. Pull Request oluşturun
 
 ### Katkı Alanları
-- 🐛 **Bug fixes**: Hata düzeltmeleri
-- ✨ **New features**: Yeni özellik ekleme
-- 📖 **Documentation**: Dokümantasyon iyileştirme
-- 🎨 **UI/UX**: Kullanıcı arayüzü geliştirme
-- 🧪 **Testing**: Test kapsamını artırma
-- ⚡ **Performance**: Performans optimizasyonu
+-  **Bug fixes**: Hata düzeltmeleri
+-  **New features**: Yeni özellik ekleme
+-  **Documentation**: Dokümantasyon iyileştirme
+-  **UI/UX**: Kullanıcı arayüzü geliştirme
+-  **Testing**: Test kapsamını artırma
+-  **Performance**: Performans optimizasyonu
 
-## 📄 Lisans
+##  Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
 ## 📧 İletişim
 
 Proje hakkında sorularınız için:
-- 📧 E-posta: [your-email@example.com]
-- 🐙 GitHub: [github.com/your-username]
-- 💼 LinkedIn: [linkedin.com/in/your-profile]
+-  E-posta: [erenterzi@protonmail.com]
+-  GitHub: [https://github.com/erent8]
+-  LinkedIn: [(https://www.linkedin.com/in/erent-developer/)]
 
 ---
 
